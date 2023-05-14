@@ -10,8 +10,8 @@ A open source linux distro
 * Light-weight
 * Made for Programmers/Coders
 * Highly cutomizable with pretty inbuild features
-* Can run Heavy Software easily also on Low-end desktop because of its light-weight. 
+* Can run Heavy Software easily also on Low-end desktop because of its light-weight Kernel.
 
 ## Toss Cons:-
 * Not for Normal user
-* Requires a good understanding of CLI,Terminal,Kernal,Frimware etc.
+* Requires a good understanding of CLI,Terminal,Kernal,Firmware etc.
