@@ -16,7 +16,7 @@ A open source linux distro
 
 ## Toss Cons:-
 * Not for Normal user
-* Requires a good understanding of CLI, Terminal, Kernal, Firmware etc.
+* Requires a good understanding of CLI,Package Manager(i.e. pacman), Terminal, Kernal, Firmware etc.
 
 ## Motive of TOSS :-
 * TOSS has total transparency like coin toss in sports.
